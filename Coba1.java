@@ -6,5 +6,6 @@ public static void main(String[] args) {
 
     System.out.println("rafi 2");
 
+    System.out.println("nopal 2");
 }
 }
