@@ -11,6 +11,6 @@ public static void main(String[] args) {
 
     System.out.println("rafi 4");
 
-
+    System.out.println(" nopal 4");
 }
 }
